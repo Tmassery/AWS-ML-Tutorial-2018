@@ -1,4 +1,16 @@
-# AWS-ML-Tutorial-2018
+# AWS-ML-GrpProj-2018
+
+##Datasets
+Maintenance Data Sets: https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan Includes:
+
+Unit number
+Time, in cycles
+Operational setting 1
+Operational setting 2
+…
+Operational setting 26
+##Modeling Strategy
+....more to come... 
 
 This repo is for the AWS ML Conference Tutorial.  
 
